@@ -52,7 +52,7 @@ This is the backend API for the blogging platform. It handles user authenticatio
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/blog-backend.git
+git clone https://github.com/lalini11/Blogging-Platform-Backend.git
 cd blog-backend
 
 # Install dependencies
