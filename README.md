@@ -1,7 +1,3 @@
-# Blogging-Platform-Backend
-
-
-```markdown
 # 📝 Blogging Platform – Backend (Node.js + Express + MySQL)
 
 This is the backend API for the blogging platform. It handles user authentication, post management, and ensures proper authorization using JSON Web Tokens (JWT).
@@ -88,4 +84,3 @@ Posts
 -PUT /api/posts/:id – Edit post (auth + ownership)
 -DELETE /api/posts/:id – Delete post (auth + ownership)
 -GET /api/posts/:id – Get post detail
-
